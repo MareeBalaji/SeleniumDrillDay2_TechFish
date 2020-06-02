@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>SeleniumDrillDay2</name>
+	<name>DrillDay2</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -11,12 +11,7 @@
 			</arguments>
 		</buildCommand>
 		<buildCommand>
-			<name>cucumber.eclipse.builder.stepdefinition</name>
-			<arguments>
-			</arguments>
-		</buildCommand>
-		<buildCommand>
-			<name>cucumber.eclipse.builder.gherkin</name>
+			<name>cucumber.eclipse.steps.jdt.stepsBuilder</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
@@ -27,7 +22,7 @@
 		</buildCommand>
 	</buildSpec>
 	<natures>
-		<nature>cucumber.eclipse.nature</nature>
+		<nature>cucumber.eclipse.steps.jdt.stepsNature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
