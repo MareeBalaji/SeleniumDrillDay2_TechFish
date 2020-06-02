@@ -1,4 +1,3 @@
-com\helper\JDBCHelper.class
-com\runner\Runner.class
-com\pageobject\PageObject.class
-com\stepdefination\TransferBetweenAccounts_Vimal.class
+Stepdefenition\Dbcall_nandhini.class
+Runnerclass\runner_nandhini.class
+Stepdefenition\Appoinment_nandhini.class
